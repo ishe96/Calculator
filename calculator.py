@@ -19,7 +19,7 @@ class Calculate:
         self.window = tk.Tk()
         self.window.geometry("375x660")
         self.window.resizable(0, 0)
-        self.window.title("DSC-NUST Calculator")
+        self.window.title("DSC-NUST Calculator") ###
 
         # display expressions
         self.total_solution = ""
